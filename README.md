@@ -5,4 +5,5 @@ Rather than this behaviour the animation cycles through the Idle framses correct
 This code is based on the excellent project by Pedker (https://github.com/pedker/OLED-BongoCat-Revision/blob/main/bongo.h) and I have attempted to strip out the animation for use in a custom PCB I have designed.
 
 This is the first time I have worked with QMK and have been teaching myself as I stumble through setting up this small macropad so would really appreciate some help.
+
 https://github.com/pedker/OLED-BongoCat-Revision/assets/131953412/a6f5b20d-bd39-48d3-8ae9-5ffd05b857ba
